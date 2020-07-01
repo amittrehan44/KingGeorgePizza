@@ -329,7 +329,7 @@ header {
 }
 
     .company-caption h1 {
-        font-family: 'Great Vibes', cursive;
+        /* font-family: 'Great Vibes', cursive; */
         font-size: 70px;
         font-weight: 400;
         letter-spacing: 6px;
@@ -876,9 +876,9 @@ footer {
             display: none;
         }*/
 
-        .company-caption {
+        /* .company-caption {
             display: none;
-        }
+        } */
     }
 
 
